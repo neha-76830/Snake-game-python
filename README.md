@@ -16,8 +16,8 @@ This is how the Snake Game looks while running:
 ![Game Output](![snake output](https://github.com/user-attachments/assets/ce80392e-1726-4b11-9f25-0aff7ebae95d)
 
 
- # if you want to see the output so click here: 
-                                                [https://drive.google.com/drive/my-drive]
+ # output;
+ if you want to see the output so click here: [https://drive.google.com/drive/my-drive]
 
 ---
 

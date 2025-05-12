@@ -1,4 +1,3 @@
-# Snake-game-python
 # Snake Game – Python (Pygame)
 
 This is a simple *Snake Game* created using Python and the Pygame library.
